@@ -1,0 +1,19 @@
+# Local inputs and private generation records
+private/
+references/
+work/
+generated_images/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Development files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+Desktop.ini
